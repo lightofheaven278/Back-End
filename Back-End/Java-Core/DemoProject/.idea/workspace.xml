@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8307e87e-2325-44d7-8112-5b1f26a3d4ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AdvanceProblem/AdvanceProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/IShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/entity/Categories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/run/ShopManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session4_Problems/JV230508_MD2_Session4_Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session4_Problems/src/problem8_abstractString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session4_Problems/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_BigProblem/AdvanceProblem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_BigProblem/AdvanceProblem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_BigProblem/AdvanceProblem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_BigProblem/AdvanceProblem/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_BigProblem/AdvanceProblem/AdvanceProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_BigProblem/AdvanceProblem/src/ra/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_BigProblem/AdvanceProblem/src/run/BookImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_BigProblem/JV230508_MD2_/JV230508_MD2_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_BigProblem/JV230508_MD2_Session6_problems/JV230508_MD2_Session6_problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_Problems/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_Problems/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_Problems/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_Problems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_Problems/JV230508_MD2_Session5_Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_Problems/src/StudentMarkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session5_Problems/src/problem1_declareClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session6_problems/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session6_problems/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session6_problems/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session6_problems/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session6_problems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session6_problems/JV230508_MD2_Session6_problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session6_problems/src/problem1/ra/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session6_problems/src/problem1/ra/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session6_problems/src/problem2/ra/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session7_Problems/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session7_Problems/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session7_Problems/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session7_Problems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session7_Problems/JV230508_MD2_Session7_Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session7_Problems/src/ra/IStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session7_Problems/src/ra/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session7_Problems/src/ra/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session8_Problems/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session8_Problems/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session8_Problems/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session8_Problems/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session8_Problems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session8_Problems/JV230508_MD2_Session8_Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session8_Problems/src/ra/IStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session8_Problems/src/ra/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session9_Problems/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session9_Problems/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session9_Problems/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session9_Problems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session9_Problems/JV230508_MD2_Session9_Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JV230508_MD2_Session9_Problems/src/demo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session6_problem/Session6_problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_DemoProject/DemoProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_DemoProject/DemoProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_DemoProject/DemoProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_DemoProject/DemoProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_DemoProject/DemoProject/DemoProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_DemoProject/DemoProject/src/ra/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_DemoProject/DemoProject/src/run/StudentImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_Session4_demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_Session4_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_Session4_demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_Session4_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_Session4_demo/JV230508_MD2_Session4_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_Session4_demo/src/String_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV230508_MD2_Session4_demo/src/problems_string1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV_FUKUOKA_230730/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV_FUKUOKA_230730/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV_FUKUOKA_230730/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV_FUKUOKA_230730/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV_FUKUOKA_230730/JV_FUKUOKA_230730.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV_FUKUOKA_230730/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV_FUKUOKA_230730/src/CreateCarClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV_FUKUOKA_230730/src/emailManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JV_FUKUOKA_230730/src/transformSymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/JV230508_MD2_Session8_Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/src/problem1/Int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/src/problem1/IntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/src/problem1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/src/problem2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/src/problem3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/src/problem4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JV230508_MD2_Session8_Problems/src/problem5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_collection_BTTH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JV230508_MD2_Session1_Problems/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JV230508_MD2_Session1_Problems/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JV230508_MD2_Session1_Problems/src/problems1_showDateAndTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JV230508_MD2_Session1_Problems/src/problems1_showDateAndTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JV230508_MD2_Session1_Problems/src/problems2_declareAndAssignValueToVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JV230508_MD2_Session1_Problems/src/problems2_declareAndAssignValueToVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JV230508_MD2_Session1_Problems/src/problems3_usingOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JV230508_MD2_Session1_Problems/src/problems3_usingOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JV230508_MD2_Session1_Problems/src/problems4_showGreeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JV230508_MD2_Session1_Problems/src/problems4_showGreeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JV230508_MD2_Session1_Problems/src/problems5_currentExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JV230508_MD2_Session1_Problems/src/problems5_currentExchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JA_FUKUOKA_230723/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JA_FUKUOKA_230723/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JA_FUKUOKA_230723/src/problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JA_FUKUOKA_230723/src/problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JA_FUKUOKA_230723/src/problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JA_FUKUOKA_230723/src/problem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JA_FUKUOKA_230723/src/problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fullstack-Course/fukuoka_java/JA_FUKUOKA_230723/src/problem3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/javaCore/JV230508_MD2_Session1_problems/JV230508_MD2_Session1_problems.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/javaCore/JV230508_MD2_Session3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/javaCore/JV230508_MD2_Session3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/javaCore/JV230508_MD2_Session3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/javaCore/JV230508_MD2_Session3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/javaCore/JV230508_MD2_Session3/JV230508_MD2_Session3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/javaCore/JV230508_MD2_Session3/src/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/javaCore/JV230508_MD2_Session3/src/problem_demo2_multiDirection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fullstack-Course/javaCore/JV230508_MD2_Session3/src/problems_demo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2TkYD1y8wDpyo0Ie8Zud5XC8FOt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/caothanhtung/Desktop/Back-End/Java-Core/DemoProject/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ShopManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.run.ShopManagement" />
+      <module name="DemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShopManagement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8307e87e-2325-44d7-8112-5b1f26a3d4ed" name="Changes" comment="" />
+      <created>1691588423945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691588423945</updated>
+      <workItem from="1691588425021" duration="41914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
